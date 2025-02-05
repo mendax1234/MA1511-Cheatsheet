@@ -1,4 +1,4 @@
-# LAF1201-Notes
+# MA1511-Notes
 ## 📂 **Repository Structure**
 
 | **File Name**           | **Description**                                                          | **LaTeX File** |
